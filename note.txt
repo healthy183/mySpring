@@ -1,0 +1,2 @@
+mySpring-classA-createBean 简单展示了springBean的创建周期
+mySpring-classB-userDefined 自定义spring

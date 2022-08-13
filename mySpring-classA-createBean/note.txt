@@ -1,0 +1,9 @@
+mySpring-classA-createBean简单展示了springBean的创建周期
+
+OwnMain -创建Spring的普通Bean对象
+InitBeanMain -展示bean创建流程
+InferConstructMain -展示springBean的推断构造方法
+AspectMain -测试spring创建动态代理对象
+
+
+
