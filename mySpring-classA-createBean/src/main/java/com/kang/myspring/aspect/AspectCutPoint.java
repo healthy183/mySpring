@@ -17,12 +17,12 @@ import org.springframework.stereotype.Component;
 @Component
 public class AspectCutPoint {
 
-    @Before("execution(* org.kang.myspring.aspectImpl.*.*(..))")
+    @Before("execution(* com.kang.myspring.aspectImpl.*.*(..))")
     public void aspectBefore(){
         System.out.println("this aspectBefore!");
     }
 
-   /* @Pointcut("execution(* org.kang.myspring.aspectImpl.*.*(..))")
+   /* @Pointcut("execution(* com.kang.myspring.aspectImpl.*.*(..))")
     public void logService(){
     }
     *//**

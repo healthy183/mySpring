@@ -11,6 +11,7 @@
     <modules>
         <module>mySpring-classA-createBean</module>
         <module>mySpring-classB-userDefined</module>
+        <module>mySpring-classC-coreClazz</module>
     </modules>
 
     <properties>
